@@ -1,0 +1,11 @@
+title: eventprep-agent
+description: Prepares you for a conference day - ranks speakers against your goals, researches them with sourced facts, drafts outreach and plans the day
+author: Axgyisback
+language: python
+framework: other
+tags: [networking, events, web-search, research, outreach, claude]
+industry: general
+difficulty: intermediate
+llm: claude-opus-5-5
+entrypoint: agent.py
+requirements: requirements.txt
